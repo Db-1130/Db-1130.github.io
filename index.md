@@ -2,7 +2,7 @@
 title: Danny Balarezo 
 description: First Github webpage
 ---
-![my picture](/pics/)
+![my picture](/pics/B10A5081 1.jpg)
 
 Content I have created for my courses:
 - [Time Series Decomposition](/timeseries/index.md)
