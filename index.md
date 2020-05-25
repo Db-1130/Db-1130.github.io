@@ -1,6 +1,6 @@
 ---
-title:Danny Balarezo 
-description:First Github webpage
+title: Danny Balarezo 
+description: First Github webpage
 ---
 
 Content I have created for my courses:
